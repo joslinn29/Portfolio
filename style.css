@@ -1,0 +1,23 @@
+#head{
+    padding: 5px;
+    text-align: center;
+}
+#intro{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    padding: 5px;
+    text-decoration: underline;
+}
+button{
+    width: 50%;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+}
+#foot{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 5x;
+}
